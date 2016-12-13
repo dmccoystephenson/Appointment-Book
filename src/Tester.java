@@ -44,7 +44,7 @@ public class Tester {
 			
 			if (next.equalsIgnoreCase("ADD")) {				
 				System.out.println("What is the description?");
-				String des1 = sc.next();	
+				String des1 = sc.nextLine();	
 				
 				System.out.println("What is the year?");
 				int y1 = sc.nextInt();
