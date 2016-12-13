@@ -1,0 +1,15 @@
+one
+1
+1
+1
+monthly
+two
+1
+1
+1
+daily
+three
+3
+3
+3
+daily
